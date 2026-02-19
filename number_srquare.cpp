@@ -12,6 +12,6 @@ int main(){
             cout<<j;
         }
         cout<<"\n";
-    }
+    } 
     
 }
